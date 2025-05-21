@@ -6,3 +6,19 @@ padding: 0;
     height: 200px;
     background-color: brown;
 }
+.div-second{
+    height: 200px;
+    background-color: rgb(78, 4, 175);
+}
+.right{
+    width: 40%;
+    background-color: rgb(41, 110, 13);
+
+}
+.left{
+    width: 60%;
+    background-color: rgb(194, 41, 62);
+}
+.main{
+
+}
